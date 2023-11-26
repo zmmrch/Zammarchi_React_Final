@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+  color: rgb(177, 117, 37);
+}
+
+.card {
+  display: inline-flex;
+  padding-inline: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
